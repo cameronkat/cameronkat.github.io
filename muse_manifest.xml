@@ -1,0 +1,95 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cameronkat.github.io" resolutions="1x,2x" timestamp="1550221031489">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="1619909" ref="index:join:our-history:donate:documents:our-leadership:about:about-spyl"/>
+    <file name="index.css" crc="4093847791" ref="index"/>
+    <file name="iefonts_index.css" crc="265052305" ref="index"/>
+    <file name="join.css" crc="4082197063" ref="join"/>
+    <file name="our-history.css" crc="4082197063" ref="our-history"/>
+    <file name="donate.css" crc="4082197063" ref="donate"/>
+    <file name="documents.css" crc="4082197063" ref="documents"/>
+    <file name="our-leadership.css" crc="4082197063" ref="our-leadership"/>
+    <file name="about.css" crc="4082197063" ref="about"/>
+    <file name="about-spyl.css" crc="4082197063" ref="about-spyl"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history"/>
+    <file name="museutils.js" crc="340535759" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history"/>
+    <file name="whatinput.js" crc="86476730" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history"/>
+    <file name="require.js" crc="7928878" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pasted-svg-140x100.svg" crc="180091013" seo="true" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history">
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="join" alt=""/>
+      <caption webpage="join" alt=""/>
+      <caption webpage="our-leadership" alt=""/>
+      <caption webpage="our-leadership" alt=""/>
+      <caption webpage="documents" alt=""/>
+      <caption webpage="documents" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-spyl" alt=""/>
+      <caption webpage="about-spyl" alt=""/>
+      <caption webpage="our-history" alt=""/>
+      <caption webpage="our-history" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 140x100_poster_.png" crc="3815003714" ref="index"/>
+    <file name="pasted-svg-140x1002.svg" crc="4033445716" seo="true" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history">
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="join" alt=""/>
+      <caption webpage="join" alt=""/>
+      <caption webpage="our-leadership" alt=""/>
+      <caption webpage="our-leadership" alt=""/>
+      <caption webpage="documents" alt=""/>
+      <caption webpage="documents" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-spyl" alt=""/>
+      <caption webpage="about-spyl" alt=""/>
+      <caption webpage="our-history" alt=""/>
+      <caption webpage="our-history" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 140x100_poster_2.png" crc="4226567578" ref="index"/>
+    <file name="pasted-svg-140x1003.svg" crc="385792423" seo="true" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history">
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="join" alt=""/>
+      <caption webpage="join" alt=""/>
+      <caption webpage="our-leadership" alt=""/>
+      <caption webpage="our-leadership" alt=""/>
+      <caption webpage="documents" alt=""/>
+      <caption webpage="documents" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-spyl" alt=""/>
+      <caption webpage="about-spyl" alt=""/>
+      <caption webpage="our-history" alt=""/>
+      <caption webpage="our-history" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 140x100_poster_3.png" crc="128865997" ref="index"/>
+    <file name="swapo_hero.jpg" crc="4113029383" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3963751077" seo="true" mt="1550145974517" redirect="true"/>
+  <file name="documents.html" crc="433129496" seo="true" mt="1550145629754" redirect="true"/>
+  <file name="about.html" crc="4196484572" seo="true" mt="1550145629754" redirect="true"/>
+  <file name="join.html" crc="3782742887" seo="true" mt="1550145629754" redirect="true"/>
+  <file name="donate.html" crc="3871920750" seo="true" mt="1550145629754" redirect="true"/>
+  <file name="about-spyl.html" crc="84428606" seo="true" mt="1550145629754" redirect="true"/>
+  <file name="our-leadership.html" crc="3860005032" seo="true" mt="1550145629754" redirect="true"/>
+  <file name="our-history.html" crc="3874485146" seo="true" mt="1550145629754" redirect="true"/>
+</manifest>
