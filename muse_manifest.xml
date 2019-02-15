@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cameronkat.github.io" resolutions="1x,2x" timestamp="1550222578054">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cameronkat.github.io" resolutions="1x,2x" timestamp="1550224426906">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="1619909" ref="index:join:our-history:donate:documents:our-leadership:about:about-spyl"/>
-    <file name="index.css" crc="4001208868" ref="index"/>
-    <file name="iefonts_index.css" crc="4168876238" ref="index"/>
+    <file name="master_a-master.css" crc="505478491" ref="index:join:our-history:donate:documents:our-leadership:about:about-spyl"/>
+    <file name="index.css" crc="30150157" ref="index"/>
+    <file name="iefonts_index.css" crc="370761340" ref="index"/>
     <file name="join.css" crc="4082197063" ref="join"/>
     <file name="our-history.css" crc="4082197063" ref="our-history"/>
     <file name="donate.css" crc="4082197063" ref="donate"/>
@@ -41,7 +41,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted svg 140x100_poster_.png" crc="3815003714" ref="index"/>
+    <file name="pasted svg 140x100_poster_.png" crc="3935538956" ref="index"/>
     <file name="pasted-svg-140x1002.svg" crc="4033445716" seo="true" ref="index:documents:about:join:donate:about-spyl:our-leadership:our-history">
       <caption webpage="join" alt=""/>
       <caption webpage="join" alt=""/>
@@ -87,7 +87,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4017607853" seo="true" mt="1550222552515" redirect="true"/>
+  <file name="index.html" crc="304188389" seo="true" mt="1550224413946" redirect="true"/>
   <file name="documents.html" crc="433129496" seo="true" mt="1550145629754" redirect="true"/>
   <file name="about.html" crc="4196484572" seo="true" mt="1550145629754" redirect="true"/>
   <file name="join.html" crc="3782742887" seo="true" mt="1550145629754" redirect="true"/>
